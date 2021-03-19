@@ -6,6 +6,6 @@
         "Go"
     ],
     "filePatterns": [
-        "go\\.mod$",
+        "go\\.mod$"
     ]
 }
