@@ -1,0 +1,11 @@
+{
+    "name": "GoStaticAnalysis Organization Workflow",
+    "description": "GoStaticAnalysis Organization CI workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "go\\.mod$",
+    ]
+}
